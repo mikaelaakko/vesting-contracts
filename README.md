@@ -3,14 +3,9 @@ Vesting contracts for custom ERC20 token
 
 ## Features
 
-- Whitelist
-- Presale
-- Custom reveal to prevent sniping
-- Adjust mint price
-- Adjust mint limit
-- Reserve and airdrop tokens
-- Set provenance hash
-- Custom withdraw function to multiple addresses
+- Add recipients to vesting schedule alone or in batch
+- Linearly release vested tokens to recipients over a predefined vesting period
+- LinearVesting contract for custom ERC20 token and VestingERC20 contract for standard ERC20 token
 
 
 ## Prerequisites
