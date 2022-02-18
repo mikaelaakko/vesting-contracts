@@ -5,7 +5,8 @@ Vesting contracts for custom ERC20 token
 
 - Add recipients to vesting schedule alone or in batch
 - Linearly release vested tokens to recipients over a predefined vesting period
-- LinearVesting contract for custom ERC20 token and VestingERC20 contract for standard ERC20 token
+- LinearVesting.sol contract for custom ERC20 token and VestingERC20.sol contract for standard ERC20 token
+- Vesting.sol with initial timelock for vested shares and release the shares monthly
 
 
 ## Prerequisites
